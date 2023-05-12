@@ -1,5 +1,5 @@
 # **colab_stable_diffusion_webui**
-##部署及使用方法：
+## 部署及使用方法：
 1、准备魔法，准备一个谷歌账号；
 2、打开网址：https://github.com/s4afa451dgf415f/colab_stable_diffusion；
 3、点击标题下的小按钮：open in colab 跳转到目标网站；
