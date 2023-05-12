@@ -1,16 +1,14 @@
 # **colab_stable_diffusion_webui**
 ## 部署及使用方法：
-1、准备魔法，准备一个谷歌账号；
-2、打开网址：https://github.com/s4afa451dgf415f/colab_stable_diffusion；
-3、点击标题下的小按钮：open in colab 跳转到目标网站；
-4、点击播放小按钮，运行；
-5、下拉到第四步，（等待运行到第四步时）点击其中的：
-
+1. 准备魔法，准备一个谷歌账号；
+2. 打开网址：https://github.com/s4afa451dgf415f/colab_stable_diffusion；
+3. 点击标题下的小按钮：open in colab 跳转到目标网站；
+4. 点击播放小按钮，运行；
+5. 下拉到第四步，（等待运行到第四步时）点击其中的：
 https://d0c48c16a1ae593644.gradio.live跳转到目标网站；
-6、选择模型，加载，开始使用；
+6. 选择模型，加载，开始使用；
 
-可以去civitai.com搜索图片，以图生图；
-
+另外可以去civitai.com搜索图片，以图生图；
 
 -[![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/s4afa451dgf415f/colab_stable_diffusion/blob/main/%E4%BA%91stable_diffusion(%E4%BF%AE%E5%A4%8D%E6%8C%96%E7%9F%BF%E5%AB%8C%E7%96%91).ipynb)<br>
 
